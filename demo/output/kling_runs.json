@@ -1,0 +1,86 @@
+[
+  {
+    "name": "shot1_overview",
+    "task_id": "936162651070136385",
+    "status": "succeeded",
+    "message": "",
+    "generated_at": "2026-10-05T12:06:12",
+    "elapsed_seconds": 85.5,
+    "first_frame": "../../goods/hoomic_cat_tree/main_leopard_9x16.png",
+    "prompt": "A tall leopard-print cat tree stands in the corner of a bright living room beside large windows. The orange cat on the top perch slowly turns its head and flicks its tail, the grey cat in the hanging basket blinks, and the tabby cat on the floor stretches a paw. Slow, smooth push-in camera move, soft natural daylight. The cat tree keeps exactly the same shape, colour and leopard pattern as in the first frame.",
+    "duration_requested": 5,
+    "resolution": "1080p",
+    "billing": [
+      {
+        "charge_type": "unit",
+        "amount": "4",
+        "package_type": "video"
+      }
+    ],
+    "clip_file": "output/clips/shot1_overview.mp4",
+    "duration_returned": "5.041"
+  },
+  {
+    "name": "shot2_scratch_10s",
+    "task_id": "936163116797919287",
+    "status": "succeeded",
+    "message": "",
+    "generated_at": "2026-10-05T12:09:16",
+    "elapsed_seconds": 159.4,
+    "first_frame": "../../goods/hoomic_cat_tree/main_leopard_9x16.png",
+    "prompt": "A tall leopard-print cat tree in the corner of a bright living room. The tabby cat steps out of the lower condo, stands up and scratches the cream sisal scratching post with both front paws, then the grey cat in the hanging basket looks down at it. The camera stays almost still and tilts up slowly from the lower condo to the top perch where the orange cat rests. Soft natural daylight. The cat tree keeps exactly the same shape, colour and leopard pattern as in the first frame.",
+    "duration_requested": 10,
+    "resolution": "1080p",
+    "billing": [
+      {
+        "charge_type": "unit",
+        "amount": "8",
+        "package_type": "video"
+      }
+    ],
+    "clip_file": "output/clips/shot2_scratch_10s.mp4",
+    "duration_returned": "10.041"
+  },
+  {
+    "name": "claude_shot2",
+    "task_id": "936166436614701093",
+    "status": "succeeded",
+    "message": "",
+    "generated_at": "2026-10-05T12:21:55",
+    "elapsed_seconds": 128.6,
+    "first_frame": "../../goods/hoomic_cat_tree/main_leopard_9x16.png",
+    "prompt": "Vertical 9:16 wide shot from a slightly elevated angle of a leopard-print cat tree with cream sisal posts fitted snugly into the corner where two walls of tall white-framed windows meet. A white sofa with yellow cushions sits beside it, and the light wood floor in front stays open and uncluttered. The camera slowly pushes in and arcs a little to the side to reveal the fan-shaped footprint of the tower hugging the corner. Bright, soft natural daylight, clean and calm interior. Preserve the exact shape, colours and structure of the cat tree from the reference photo.",
+    "duration_requested": 6,
+    "resolution": "1080p",
+    "billing": [
+      {
+        "charge_type": "unit",
+        "amount": "4.8",
+        "package_type": "video"
+      }
+    ],
+    "clip_file": "output/clips/claude_shot2.mp4",
+    "duration_returned": "6.041"
+  },
+  {
+    "name": "claude_shot6",
+    "task_id": "936166975431770193",
+    "status": "succeeded",
+    "message": "",
+    "generated_at": "2026-10-05T12:24:35",
+    "elapsed_seconds": 157.9,
+    "first_frame": "../../goods/hoomic_cat_tree/main_leopard_9x16.png",
+    "prompt": "Vertical 9:16 hero shot of a tall leopard-print cat tree with cream sisal posts in the corner of a sunlit living room with large white-framed windows. Several cats occupy different levels: an orange tabby resting on the top perch, a grey tabby in a hanging basket, a tabby peeking from the lower condo and another tabby lying on the base. The camera slowly pulls back and rises slightly to reveal the full tower, the white sofa and the light wood floor. Warm golden daylight, inviting and cheerful mood. Keep the cat tree's colours, proportions and fan-shaped structure exactly matching the reference photo.",
+    "duration_requested": 8,
+    "resolution": "1080p",
+    "billing": [
+      {
+        "charge_type": "unit",
+        "amount": "6.4",
+        "package_type": "video"
+      }
+    ],
+    "clip_file": "output/clips/claude_shot6.mp4",
+    "duration_returned": "8.041"
+  }
+]

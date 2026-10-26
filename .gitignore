@@ -1,0 +1,27 @@
+# secrets
+.env
+.env.*
+!.env.example
+
+# local data and media (never commit TikTok videos or generated clips)
+*.db
+*.db-*
+*.sqlite*
+media/
+demo/output/clips/
+*.mp4
+*.mov
+*.webm
+
+# environments and build output
+.venv/
+venv/
+__pycache__/
+*.pyc
+node_modules/
+dist/
+
+# OS / editor
+.DS_Store
+.idea/
+.vscode/

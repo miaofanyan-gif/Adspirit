@@ -1,0 +1,76 @@
+{
+  "run": {
+    "generated_at": "2026-10-05T12:19:36",
+    "model": "claude-opus-5-5",
+    "elapsed_seconds": 30.8,
+    "input_tokens": 2296,
+    "output_tokens": 2429,
+    "estimated_cost_usd": 0.0578,
+    "images_sent": 1
+  },
+  "storyboard": {
+    "hook": "Your cats want the whole room. Give them one corner instead.",
+    "target_viewer": "Indoor cat owners in apartments or smaller homes, especially multi-cat households, who want a tall cat tree that climbs, hides and scratches without taking over the floor",
+    "selling_points": [
+      "Fan-shaped, space-saving design that fits into a room corner",
+      "73 inches tall with multiple levels for climbing and play",
+      "Multiple cozy condos and perches for resting and watching",
+      "Hanging baskets for lounging",
+      "Sisal scratching posts",
+      "Reviews mention assembly in about 30 minutes",
+      "6 colour options, including Leopard Print",
+      "$85.99, listed at 46% off $159.99, rated 4.7 stars from 349 reviews",
+      "Free shipping and 30-day free returns"
+    ],
+    "shots": [
+      {
+        "shot_order": 1,
+        "duration_seconds": 6,
+        "visual_description": "Slow tilt up the full leopard-print cat tree in the bright corner of a living room, from the base where a tabby rolls on its back up to the orange cat lounging on the top perch.",
+        "selling_point": "73-inch multi-level tower",
+        "on_screen_text": "73 inches of cat heaven 🐾",
+        "prompt_text": "Vertical 9:16 shot of a tall leopard-print plush cat tree with cream sisal-wrapped posts standing in the corner of a bright living room with large white-framed windows and a light wood floor. The camera starts low at the round base where a tabby cat lies on its back playfully pawing the air, then smoothly tilts upward past two cube condos and two round hanging baskets to the top platform where an orange tabby cat lounges and slowly blinks. Soft natural daylight streams through the windows, warm and airy atmosphere. Keep the cat tree's brown leopard pattern, cream posts and fan-shaped layout exactly as in the reference photo."
+      },
+      {
+        "shot_order": 2,
+        "duration_seconds": 6,
+        "visual_description": "Wide, slightly high angle showing how the fan-shaped tree tucks neatly into the corner between two window walls, leaving the floor and sofa area open.",
+        "selling_point": "Fan-shaped, space-saving corner design",
+        "on_screen_text": "Fan-shaped to fit right into a corner",
+        "prompt_text": "Vertical 9:16 wide shot from a slightly elevated angle of a leopard-print cat tree with cream sisal posts fitted snugly into the corner where two walls of tall white-framed windows meet. A white sofa with yellow cushions sits beside it, and the light wood floor in front stays open and uncluttered. The camera slowly pushes in and arcs a little to the side to reveal the fan-shaped footprint of the tower hugging the corner. Bright, soft natural daylight, clean and calm interior. Preserve the exact shape, colours and structure of the cat tree from the reference photo."
+      },
+      {
+        "shot_order": 3,
+        "duration_seconds": 7,
+        "visual_description": "Close-up of the lower cube condo: a tabby peeks out of the round opening, then settles inside. Camera drifts up to the upper condo.",
+        "selling_point": "Cozy condos for hiding and napping",
+        "on_screen_text": "Cozy condos for secret naps",
+        "prompt_text": "Vertical 9:16 close-up of a leopard-print plush cube condo with a round arched entrance on a cat tree. A brown tabby cat pokes its head out of the opening, looks around curiously, then tucks back inside and curls up. The camera gently glides upward along a cream sisal post to reveal a second identical condo above, with small leopard-print pom-pom balls hanging beside it. Warm, soft daylight from the side, shallow depth of field, cozy mood. Keep the leopard pattern and condo shapes consistent with the reference photo."
+      },
+      {
+        "shot_order": 4,
+        "duration_seconds": 7,
+        "visual_description": "A grey tabby relaxes in a round hanging basket, gently swaying; cut of focus to the second basket on the other side and an open perch.",
+        "selling_point": "Hanging baskets and perches for lounging and watching",
+        "on_screen_text": "Baskets + perches = front-row window seats",
+        "prompt_text": "Vertical 9:16 medium shot of a round, bowl-shaped leopard-print hanging basket attached to a cat tree beside a large bright window. A grey tabby cat sits comfortably inside, watching birds outside with its ears twitching, then lies down and stretches. The camera slowly orbits to show a second hanging basket and a flat perch on the opposite side of the tower, with green trees visible through the window. Bright natural daylight, soft shadows, peaceful atmosphere. Maintain the cat tree's leopard print and cream sisal posts as in the reference photo."
+      },
+      {
+        "shot_order": 5,
+        "duration_seconds": 6,
+        "visual_description": "Tight shot of a cat scratching a cream sisal post with its claws while the sofa beside it stays untouched.",
+        "selling_point": "Sisal scratching posts",
+        "on_screen_text": "Sisal posts = scratch here, not the sofa 😼",
+        "prompt_text": "Vertical 9:16 close-up of a cream natural sisal rope-wrapped post on a leopard-print cat tree. A tabby cat stretches up on its hind legs and scratches the sisal vigorously with its front claws, fibres catching the light. The camera holds steady, then slowly pulls back to reveal a clean white sofa with yellow cushions nearby. Soft natural window light with warm highlights, crisp texture detail. Keep the post colour and the leopard-print plush sections identical to the reference photo."
+      },
+      {
+        "shot_order": 6,
+        "duration_seconds": 8,
+        "visual_description": "Final hero shot: all cats occupying different levels of the tree in the sunny corner, camera slowly pulls back for the full view.",
+        "selling_point": "Price, rating, colour options, quick assembly per reviews, free shipping and returns",
+        "on_screen_text": "$85.99 (46% off $159.99) • 4.7★ from 349 reviews • 6 colours • Reviewers say ~30 min assembly • Free shipping & 30-day free returns",
+        "prompt_text": "Vertical 9:16 hero shot of a tall leopard-print cat tree with cream sisal posts in the corner of a sunlit living room with large white-framed windows. Several cats occupy different levels: an orange tabby resting on the top perch, a grey tabby in a hanging basket, a tabby peeking from the lower condo and another tabby lying on the base. The camera slowly pulls back and rises slightly to reveal the full tower, the white sofa and the light wood floor. Warm golden daylight, inviting and cheerful mood. Keep the cat tree's colours, proportions and fan-shaped structure exactly matching the reference photo."
+      }
+    ]
+  }
+}

@@ -1,0 +1,11 @@
+fastapi
+uvicorn[standard]
+langgraph
+langgraph-checkpoint-sqlite
+anthropic
+sqlalchemy
+python-dotenv
+sse-starlette
+requests
+beautifulsoup4
+pydantic
